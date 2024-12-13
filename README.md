@@ -67,7 +67,7 @@ Final, type to the URL localhost/courier-igniter
 ![image](https://github.com/user-attachments/assets/dfa9e14d-6c09-4f6d-95f8-fe0a7573e470)
 
 
-### 📌The full documentation for theCourier Management System Project in CodeIgniter is available at: ⬇️⬇️⬇️
+### 📌The full documentation for the Courier Management System Project in CodeIgniter is available at: ⬇️⬇️⬇️
 
 https://itsourcecode.com/free-projects/php-project/courier-management-system-project-in-codeigniter-with-source-code/
 
